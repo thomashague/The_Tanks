@@ -1,15 +1,7 @@
-C:\Users\ash_n\LearnPython\The_Tanks\The_Tanks>git checkout -b practice2 origin/practice
+#C:\Users\ash_n\LearnPython\The_Tanks\The_Tanks>git checkout -b practice2 origin/practice
 Switched to a new branch 'practice2'
 Branch 'practice2' set up to track remote branch 'practice' from 'origin'.
 
-C:\Users\ash_n\LearnPython\The_Tanks\The_Tanks>git pull
-Already up to date.
-
-C:\Users\ash_n\LearnPython\The_Tanks\The_Tanks>dir
- Volume in drive C is Local Disk
- Volume Serial Number is 9841-A8CE
-
- Directory of C:\Users\ash_n\LearnPython\The_Tanks\The_Tanks
 
 03/10/2018  11:04 AM    <DIR>          .
 03/10/2018  11:04 AM    <DIR>          ..
@@ -19,4 +11,3 @@ C:\Users\ash_n\LearnPython\The_Tanks\The_Tanks>dir
                3 File(s)        289,655 bytes
                2 Dir(s)  51,602,948,096 bytes free
 
-C:\Users\ash_n\LearnPython\The_Tanks\The_Tanks>
